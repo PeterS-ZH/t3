@@ -1,0 +1,4 @@
+
+file 'common.txt' that will be present in both branches
+
+
